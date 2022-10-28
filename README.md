@@ -1,4 +1,4 @@
-## [![mike setzers header](https://github.com/mikesetzer/mikesetzer/raw/main/assets/75534264_2517800635119825_4264933826649653248_n.png)]
+## [mike setzers header](https://github.com/mikesetzer/mikesetzer/raw/main/assets/75534264_2517800635119825_4264933826649653248_n.png)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/mikesetzer/"><img alt="Mike Setzer's LinkedIn Profile" height="30" src="https://raw.githubusercontent.com/iturgeon/iturgeon/main/assets/linkedin.svg"></a>
