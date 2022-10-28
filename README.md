@@ -12,4 +12,4 @@ I have been with the UCF family for nearly a decade, first as a student, then as
 
 I am currently the lead website developer for the division of Administration and Finance, and manage and develop for over 30 websites. I work alongside a team of experienced software and database developers, and bring the unique perspective of user-centered design to my teams.
 
-In my free time I love to build custom mechanical keyboards, play Dungeons and Dragons, and building computers.
+In my free time I love to build custom mechanical keyboards, play Dungeons and Dragons, and build computers.
