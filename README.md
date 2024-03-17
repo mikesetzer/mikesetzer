@@ -8,7 +8,7 @@
 
 I'm a front-end developer focusing on user experience design, particularly in WordPress. I also teach UX/UI at UCF Bootcamps and am currently diving into a Masters in FinTech. I'm really interested in the human side of computing — like how thoughtful design can make technology better for everyone.
 
-I've been part of the UCF community for almost ten years, starting as a student and moving into roles like HCI research and now web development and teaching. It's here I found what I love most: coding and educating others.
+I've been part of the UCF community for over ten years, starting as a student and moving into roles like HCI research and now web development and teaching. It's here I found what I love most: coding and educating others.
 
 Right now, I handle web development for UCF's Administration and Finance division, overseeing more than 30 websites. I'm part of a skilled group of software and database pros, and I try to bring a user-first approach to all our projects.
 
