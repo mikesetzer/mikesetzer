@@ -10,7 +10,7 @@ I'm a front-end developer focusing on user experience design, particularly in Wo
 
 I've been part of the UCF community for over ten years, starting as a student and moving into roles like HCI research and now web development and teaching. It's here I found what I love most: coding and educating others.
 
-Right now, I handle web development for UCF's Administration and Finance division, overseeing more than 30 websites. I'm part of a skilled group of software and database pros, and I try to bring a user-first approach to all our projects.
+Right now, I am a senior Web Applications Developer for UCF Administration and Finance, overseeing more than 30 WordPress websites and applications. I'm part of a skilled group of software and database pros, and I try to bring a user-first approach to all our projects.
 
 Outside of work, I'm into creating custom mechanical keyboards, Dungeons and Dragons, and cooking.
 
